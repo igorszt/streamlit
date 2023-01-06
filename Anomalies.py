@@ -16,7 +16,7 @@ st.markdown("# Anomalies Analysis ⚠️")
 
 
 #dados
-data = pd.read_csv("'https://raw.githubusercontent.com/igorszt/streamlit/main/base_morning_results_BR.csv',parse_dates=['day'])
+data = pd.read_csv('https://raw.githubusercontent.com/igorszt/streamlit/main/base_morning_results_BR.csv',parse_dates=['day'])
 
 
 #unique bdrs
